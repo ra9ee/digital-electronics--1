@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Tue Feb 21 14:55:48 2023
+# Process ID: 6464
+# Current directory: C:/Users/240367/Desktop/03-vivado/comparator
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent1440 C:\Users\240367\Desktop\03-vivado\comparator\comparator.xpr
+# Log file: C:/Users/240367/Desktop/03-vivado/comparator/vivado.log
+# Journal file: C:/Users/240367/Desktop/03-vivado/comparator\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/240367/Desktop/03-vivado/comparator/comparator.xpr
+update_compile_order -fileset sources_1
