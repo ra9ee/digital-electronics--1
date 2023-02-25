@@ -79,4 +79,3 @@ set_property -dict { PACKAGE_PIN T15   IOSTANDARD LVCMOS33 } [get_ports { f[2] }
 #set_property -dict { PACKAGE_PIN V12   IOSTANDARD LVCMOS33 } [get_ports { LED[14] }]; #IO_L20N_T3_A07_D23_14 Sch=led[14]
 #set_property -dict { PACKAGE_PIN V11   IOSTANDARD LVCMOS33 } [get_ports { LED[15] }]; #IO_L21N_T3_DQS_A06_D22_14 Sch=led[15]
 ```
-..
