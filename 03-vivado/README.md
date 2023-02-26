@@ -35,7 +35,7 @@ end architecture Behavioral;
 
 2. Screenshot with simulated time waveforms. Always display all inputs and outputs (display the inputs at the top of the image, the outputs below them) at the appropriate time scale!
 
-   ![your figure](https://github.com/ra9ee/digital-electronics--1/blob/main/03-vivado/file.png)
+   ![your figure](https://github.com/ra9ee/digital-electronics--1/blob/main/03-vivado/File1.png)
 
 
 
