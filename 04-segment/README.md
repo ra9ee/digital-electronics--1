@@ -25,8 +25,9 @@
 
 2. Listing of LEDs(7:4) part of VHDL architecture from source file `top.vhd`. Try to write logic functions as simple as possible. Always use syntax highlighting, meaningful comments, and follow VHDL guidelines:
 
-   ```vhdl
-   -- Turn LED(4) on if input value is equal to 0, ie "0000"
+```vhdl
+   --------------------------------------------------------------------
+-- Turn LED(4) on if input value is equal to 0, ie "0000"
  LED(4) <= '1' when (SW = "0000") else '0';
 
 -- Turn LED(5) on if input value is greater than "1001", ie 10, 11, 12, ...
@@ -37,8 +38,7 @@
 
 -- Turn LED(7) on if input value is a power of two, ie 1, 2, 4, or 8
  LED(7) <= (((SW(0) nor SW(1)) and (SW(2) xor SW(3))) or ((SW(2) nor SW(3)) and (SW(0) xor SW(1))));
-end architecture behavioral;
-   ```
+```
 
 3. Screenshot with simulated time waveforms for LED(7:4). Always display all inputs and outputs (display the inputs at the top of the image, the outputs below them) at the appropriate time scale!
 
