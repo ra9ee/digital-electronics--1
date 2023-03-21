@@ -1,0 +1,1 @@
+-wto "4d478e47bca449c1b160e6498b0fe512" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "tb_driver_7seg_4digits_behav" "xil_defaultlib.tb_driver_7seg_4digits" -log "elaborate.log" 
